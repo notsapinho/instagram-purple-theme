@@ -12,8 +12,6 @@
 // @run-at       document-start
 // ==/UserScript==
 
-//
-
 window.onload = () => {
     GM_addStyle(`
        body {
