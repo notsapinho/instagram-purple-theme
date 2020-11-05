@@ -14,7 +14,7 @@
 // ==/UserScript==
 
 const $ = window.jQuery;
-
+//teste
 $(document).ready(async () => {
     GM_addStyle(`
        body {
