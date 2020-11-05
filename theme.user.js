@@ -9,13 +9,9 @@
 // @author       notsapinho
 // @match        https://www.instagram.com/*
 // @grant        GM_addStyle
-// @require      http://code.jquery.com/jquery-3.4.1.min.js
 // @run-at       document-start
 // ==/UserScript==
-
-const $ = window.jQuery;
-//teste
-$(document).ready(async () => {
+window.onload = () => {
     GM_addStyle(`
        body {
     background: rgb(41, 40, 65) !important;
@@ -149,4 +145,4 @@ svg[fill="#ed4956"] {
 }
 
     `);
-});
+}
