@@ -125,6 +125,7 @@ svg[fill="#ed4956"] {
     /* Black */
     --b3f: var(--background-primary) !important;
     --d87: var(--background-tertiary) !important;
+    --eca: var(--background-tertiary) !important;
     --f23: var(--background-secondary) !important;
     /* White */
     --i1d: 255, 255, 255 !important;
