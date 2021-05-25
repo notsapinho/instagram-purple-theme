@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Instagram Purple Theme
-// @homepageURL  https://github.com/notsapinho/instagram-purple-theme
+// @homepageURL  https://github.com/9qz/instagram-purple-theme
 // @namespace    http://tampermonkey.net/
 // @downloadURL  https://raw.githubusercontent.com/9qz/instagram-purple-theme/main/theme.user.js
 // @updateURL    https://raw.githubusercontent.com/9qz/instagram-purple-theme/main/theme.meta.js
